@@ -1,9 +1,10 @@
 
 public class Main {
     public static void main(String[] args) {
-        JuanGarzon
-        System.out.println("Juan Garzon");
-        System.out.println("Chia");
-        System.out.println("18 años");
+        AndresCorredor
+        System.out.println("Andres Corredor");
+        System.out.println("Sesquile");
+        System.out.println("19 años");
+
     }
 }
