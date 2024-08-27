@@ -1,8 +1,9 @@
 
 public class Main {
     public static void main(String[] args) {
-        ElkinAlmonacid
-        System.out.println("Elkin Yamith Almonacid López");
+        BrayanMendez
+        System.out.println("Brayan Mendez");
+
         System.out.println("Sopó, Cundinamarca");
         System.out.println("18 años");
 
